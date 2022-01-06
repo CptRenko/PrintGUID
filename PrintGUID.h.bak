@@ -1,4 +1,7 @@
-#include <Windows.h>
+//PrintGUID
+//JavierP <japarrao@tagl.cl>
+
+#include <guiddef.h>
 #include <iostream>
 
 #define WIN32_LEAN_AND_MEAN

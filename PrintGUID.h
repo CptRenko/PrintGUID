@@ -1,10 +1,9 @@
 //PrintGUID
 //JavierP <japarrao@tagl.cl>
 
-#include <Windows.h>
+#include <guiddef.h>
 #include <iostream>
 
-#define WIN32_LEAN_AND_MEAN
 
 void PrintGUID(GUID guid)
 {
